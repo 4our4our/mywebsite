@@ -8,3 +8,9 @@
     margin-right: auto;
     width: 50%;
 }
+body{
+    background-color:orange;
+}
+h1{
+    border-bottom: inset; background-color:black; color:yellow;
+}
